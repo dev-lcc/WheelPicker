@@ -36,7 +36,7 @@ or
 ```
 
 ### Import aar
-[WheelPicker-1.1.3.aar](https://dl.bintray.com/aigestudio/maven/cn/aigestudio/wheelpicker/WheelPicker/1.1.3/WheelPicker-1.1.3.aar)
+[WheelPicker-1.1.3.aar](https://github.com/dev-lcc/WheelPicker/blob/master/Previews/WheelPicker-1.1.3.aar)
 
 ### Import Module
 1.Import moudle WheelPicker in your project.
